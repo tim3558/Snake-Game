@@ -15,7 +15,7 @@ The goal is to achieve the highest score possible by eating as much food as poss
 • Game Over screen with the option to restart the game. <br>
 
 <h4>How to Play:</h4>
-Download the Java Snake Game from the releases page. <br>
+Download the Java Snake Game from: https://github.com/tim3558/Snake-Game/blob/main/SnakeV2/out/artifacts/SnakeV2_jar/SnakeV2.jar <br>
 Make sure you have Java installed on your system. <br>
 Double-click on the SnakeGame.jar file to launch the game. <br>
 
@@ -25,7 +25,7 @@ Use the arrow keys (Up, Down, Left, Right) to control the direction of the snake
 <h4>Installation:</h4>
 If you want to build the game from source, follow these steps: <br>
 
-Clone the repository: git clone https://github.com/tim3558/Snake-Game/tree/main <br>
+Clone the repository: git clone https://github.com/tim3558/Snake-Game/blob/main/SnakeV2/src/com/company/Main.java <br>
 Open the project in your favorite Java IDE (Eclipse, IntelliJ, etc.). <br>
 Build the project to generate the executable JAR file. <br>
 
